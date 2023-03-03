@@ -1,0 +1,1 @@
+insert into table ods.stockrawdata partition (code='{}', dt={}) values{}
